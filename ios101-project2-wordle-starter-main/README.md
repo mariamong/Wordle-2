@@ -1,20 +1,19 @@
+# Project 2 - *Wordle App*
 
-# Project 2 - *Name of App Here*
+Submitted by: **Mariam Gbadamosi**
 
-Submitted by: **Your Name Here**
+**Wordle** is an app that allows the user to guess a specific word with a limited amount of tries.
 
-**Name of your app** is an app that ... [TODO] 
-
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] User can change the number of letters per row (the length of the goal word)
-- [ ] User can change the numbers of rows on the board (how many guesses allowed)
-- [ ] User can select a new themed set to pull the goal word from
-- [ ] User can select "alien wordle", causing the goal word to change after each guess
+- [x] User can change the number of letters per row (the length of the goal word)
+- [x] User can change the numbers of rows on the board (how many guesses allowed)
+- [x] User can select a new themed set to pull the goal word from
+- [x] User can select "alien wordle", causing the goal word to change after each guess
 
 
 The following **optional** features are implemented:
@@ -27,9 +26,10 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+ 
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+https://www.loom.com/share/86eeeebfba684028828379fe07954d41?sid=8fac948e-9cd6-413f-8fad-17295a109a05
 
 ## Notes
 
@@ -37,7 +37,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Mariam Gbadamosi]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -50,3 +50,4 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
