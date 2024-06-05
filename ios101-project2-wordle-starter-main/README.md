@@ -4,7 +4,6 @@ Submitted by: **Mariam Gbadamosi**
 
 **Wordle** is an app that allows the user to guess a specific word with a limited amount of tries.
 
-Time spent: **1** hours spent in total
 
 ## Required Features
 
@@ -24,15 +23,6 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough
-
-
-
-https://www.loom.com/share/ecbc15ccd67644d38d6a3d9d2d6a3c12?sid=8943274a-7cf5-49b2-92ec-22b825b831f7
-
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
